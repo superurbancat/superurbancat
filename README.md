@@ -10,8 +10,8 @@
 7. [CONNECT] 버튼을 눌러 내 지갑과 연동합니다. (MetaMask가 잠겨있다면 잠금해제 요청 팝업이 뜹니다.)
 8. MetaMask 지갑에 [Polygon Mainnet]이 추가 또는 선택되어 있지 않다면 [SWITCH NETWORK TO POLYGON MAINNET] 버튼이 노출됩니다. (이미 추가된 경우는 10번으로 갑니다.)
 9. 네트워크가 추가 되어 있지 않다면 추가를 하고 Polygon Mainnet으로 전환할지 확인합니다. 추가 및 전환을 진행해주세요.
-10. [BUY 1 NFTS]라는 버튼이 노출됩니다. 이제 구매하시면 됩니다.<details><summary>구매 가이드</summary><p>Super Urban Cat 1마리의 가격은 0.5 MATIC 입니다. 한 번에 50마리까지 구매할 수 있습니다. 실제 구매 시 네트워크 수수료도 함께 차감됩니다. 2마리를 구매할 경우 지갑에 1.2~1.3 MATIC 정도는 보유하고 있어야 합니다. 수수료는 시간대에 따라 다르게 책정됩니다.</p></details>
-11. 구매가 끝났으면 [OpenSea](https://opensea.io/account)로 가서, 지갑을 연결한 후 구매한 NFT를 학인합니다.
+10. [BUY 1 NFT]라는 버튼이 노출됩니다. 이제 구매하시면 됩니다.<details><summary>구매 가이드</summary><p>Super Urban Cat 1마리의 가격은 0.5 MATIC 입니다. 한 번에 50마리까지 구매할 수 있습니다. 실제 구매 시 네트워크 수수료도 함께 차감됩니다. 2마리를 구매할 경우 지갑에 1 MATIC 보다는 소량의 MATIC이 더 필요합니다. 수수료는 시간대에 따라 다르게 책정됩니다.</p></details>
+11. 구매가 끝났으면 [OpenSea](https://opensea.io/account)로 가서, 지갑을 연결한 후 구매한 NFT를 인합니다.
 12. 축하합니다!
 
 ### 함께보면 좋은 가이드
